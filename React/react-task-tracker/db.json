@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "id": "ddba",
+      "text": "Task1",
+      "day": "2.4.",
+      "reminder": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
